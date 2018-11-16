@@ -1,11 +1,11 @@
 def a(b, c):
     return b + c
 
-a()
+a(1, 2)
 
-a(1)
+a(1, 2)
 
-hola
+hola = 'hola'
 
 for x in range(10):
-print('.')
+    print('.')
